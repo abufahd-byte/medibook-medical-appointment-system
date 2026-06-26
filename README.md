@@ -46,9 +46,26 @@ The interface is designed with a clean healthcare style using soft colors, clear
 
 ---
 
-## 📁 Project Structure
+## 📸 Screenshots
 
-```text
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Manage Doctors
+![Manage Doctors](screenshots/manage-doctors.png)
+
+### Appointments Management
+![Appointments Management](screenshots/appointments.png)
+
 medibook-medical-appointment-system/
 │
 ├── index.php
